@@ -1,0 +1,9 @@
+opy the GitHub repository URL by clicking on Clone or download.
+Now, click on Configure to modify the existing job.
+Scroll to the Advanced Project Options setting and select Pipeline script from the SCM option.
+Paste the GitHub repository URL here.
+Type Jenkinsfile in the Script, and then click on the Save button.
+Next, click on Build Now to execute the job again.
+There will be an additional stage, in this case, i.e., Declaration: Checkout SCM.
+Click on any stage and click on Log.
+After you have grasped all the essential steps to build a CI/CD pipeline using Jenkins, a hands-on demonstration will serve as the icing on the cake.
